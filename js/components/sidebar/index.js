@@ -27,7 +27,7 @@ const datas = [
     bg: '#C5F442',
   }, {
     name: 'Diet Plan',
-    route: 'anatomy',
+    route: 'dietplan',
     icon: 'phone-portrait',
     bg: '#C5F442',
   }, {
@@ -37,7 +37,7 @@ const datas = [
     bg: '#C5F442',
   }, {
     name: 'Stay Fit',
-    route: 'anatomy',
+    route: 'stayfit',
     icon: 'phone-portrait',
     bg: '#C5F442',
   }, {

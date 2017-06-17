@@ -100,6 +100,9 @@ import statusBarColor from './themes/variables';
 import Attendance from './components/attendance/';
 import Profile from './components/profile/';
 import FuelStation from './components/fuelstation/';
+import DietPlan from './components/dietplan/';
+import StayFit from './components/stayfit/';
+import Login from './components/login/';
 
 const {
   popRoute,
@@ -262,6 +265,9 @@ class AppNavigator extends Component {
               <Scene key="attendance" component={Attendance} />
               <Scene key="profile" component={Profile} />
               <Scene key="fuelstation" component={FuelStation} />
+              <Scene key="dietplan" component={DietPlan} />
+              <Scene key="stayfit" component={StayFit} />
+              <Scene key="login" component={Login} />
             </Scene>
           </RouterWithRedux>
         </Drawer>

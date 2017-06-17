@@ -12,111 +12,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/NativebaseKitchenSink/react-native-code-push/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8fe9f6cec3a5c532395b1046588c056d415ffddc">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/NativebaseKitchenSink-react-native-code-push-unspecified_a3e7ba21f236f34dbebc6d3b743b3dc17ea176e1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9c0ce54976b3b824db4f617d23ea32a69f3a6f1b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_4c6d16c7ee44f5fc7b5e973b6286970d1668ea0b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_cbf450568212591fd501e8f52ff3c4506f23dec1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_98c966e92bda90e6425796a4b2278365cb3ac568.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_2a32fe0026f6243d6f01c954a7ccad7c46bd1396.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_d46369c5c5fdb8a6f6d9a89ac34fc185857bec3c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_bb1fa4c8cc9dbee3254c95510dfd2453b3295414.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_da1d3994f93eb6b8a082af8e9c5be7fd9fce8284.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3ef52998bb57e583c54d9a7b16bddc103ffe1459.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c101874668015776fdc12450f04198cdea690b50.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
         <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_bd0ab85c475fe0cd39751b7095464ea1de6def29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/NativebaseKitchenSink/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe9f6cec3a5c532395b1046588c056d415ffddc">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/NativebaseKitchenSink-react-native-code-push-unspecified_a3e7ba21f236f34dbebc6d3b743b3dc17ea176e1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,12 +48,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9c0ce54976b3b824db4f617d23ea32a69f3a6f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_4c6d16c7ee44f5fc7b5e973b6286970d1668ea0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/chirag/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1051121748dd791b1b4e6810274ab1a5fbd065ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_cbf450568212591fd501e8f52ff3c4506f23dec1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,6 +120,33 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_98c966e92bda90e6425796a4b2278365cb3ac568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/NativebaseKitchenSink/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f4899f6d36bd3b97a213e83a5db389f472c782c4">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/NativebaseKitchenSink-react-native-video-unspecified_6f2604c6ef9f88b516a2ff76ced468a11e17fc75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_63835c992accf5ebf7256b5d59789ccec55e6c03.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -201,6 +165,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_2a32fe0026f6243d6f01c954a7ccad7c46bd1396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_d46369c5c5fdb8a6f6d9a89ac34fc185857bec3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -216,6 +198,42 @@
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_100f368010f1410e68c74b432b2d96be4d0c3be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_bb1fa4c8cc9dbee3254c95510dfd2453b3295414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_da1d3994f93eb6b8a082af8e9c5be7fd9fce8284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3ef52998bb57e583c54d9a7b16bddc103ffe1459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/chirag/MyProj/zfp/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c101874668015776fdc12450f04198cdea690b50.jar" />
     </item>
     <item
         is-multidex="false"

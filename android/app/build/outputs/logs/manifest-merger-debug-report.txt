@@ -27,6 +27,8 @@ MERGED from [com.facebook.react:react-native:0.42.3] /home/chirag/MyProj/zfp/and
 		ADDED from /home/chirag/MyProj/zfp/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /home/chirag/MyProj/zfp/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [NativebaseKitchenSink:react-native-video:unspecified] /home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/NativebaseKitchenSink/react-native-video/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/AndroidManifest.xml:8:5-10:41
 MERGED from [NativebaseKitchenSink:react-native-code-push:unspecified] /home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/NativebaseKitchenSink/react-native-code-push/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.42.3] /home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/chirag/MyProj/zfp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
